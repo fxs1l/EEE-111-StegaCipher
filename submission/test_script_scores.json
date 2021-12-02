@@ -1,0 +1,146 @@
+{
+    "Part 1: Program Mode": {
+        "total": [
+            15.0,
+            15
+        ],
+        "methods": {
+            "main": [
+                15.0,
+                15.0
+            ]
+        }
+    },
+    "Part 2: Loading and Saving Image Data": {
+        "total": [
+            5.0,
+            5
+        ],
+        "methods": {
+            "load_image_data": [
+                2.5,
+                2.5
+            ],
+            "save_image_to_file": [
+                2.5,
+                2.5
+            ]
+        }
+    },
+    "Part 3.0: Getting the Key and Message": {
+        "total": [
+            5,
+            5
+        ],
+        "methods": {
+            "get_data_to_encrypt": [
+                5,
+                5
+            ]
+        }
+    },
+    "Part 3.1: Encrypting the Message using a given Key": {
+        "total": [
+            10,
+            10
+        ],
+        "methods": {
+            "encrypt_text": [
+                10,
+                10
+            ],
+            "encrypt_text (Week 4)": [
+                8,
+                10
+            ]
+        }
+    },
+    "Part 3.2: Translate Key and Message from String to Binary": {
+        "total": [
+            5.0,
+            5
+        ],
+        "methods": {
+            "char_to_ascii": [
+                2.5,
+                2.5
+            ],
+            "char_to_ascii (Week 2)": [
+                2.5,
+                2.5
+            ],
+            "ascii_to_binary": [
+                2.5,
+                2.5
+            ],
+            "ascii_to_binary (Week 2)": [
+                2.5,
+                2.5
+            ]
+        }
+    },
+    "Part 3.3: Adding the Key and Message Binary to the Image": {
+        "total": [
+            15.0,
+            15
+        ],
+        "methods": {
+            "encode_message": [
+                15.0,
+                15.0
+            ]
+        }
+    },
+    "Part 4.1: Getting the Message from Steganographic Images": {
+        "total": [
+            15.0,
+            15
+        ],
+        "methods": {
+            "decode_message": [
+                15.0,
+                15.0
+            ]
+        }
+    },
+    "Part 4.2: Translate Key and Message from Binary to String": {
+        "total": [
+            10,
+            10
+        ],
+        "methods": {
+            "binary_to_ascii_string": [
+                10,
+                10
+            ]
+        }
+    },
+    "Part 4.3: Decrypt the Message using a Given Key": {
+        "total": [
+            5,
+            5
+        ],
+        "methods": {
+            "decrypt_text": [
+                5,
+                5
+            ],
+            "decrypt_text (Week 5)": [
+                2.0,
+                5.0
+            ]
+        }
+    },
+    "Part 4.4: Save Decrypted Message to Text File": {
+        "total": [
+            5,
+            5
+        ],
+        "methods": {
+            "save_file": [
+                5,
+                5
+            ]
+        }
+    }
+}
